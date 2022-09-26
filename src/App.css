@@ -1,0 +1,61 @@
+.App {
+  background-color:aliceblue;
+
+}
+h3 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+button {
+  text-align: center;
+  font-size: 1rem;
+  width: 30px;
+  border: 1px solid #d6d6d6;
+}
+
+.btn {
+  width: 10%;
+  height: 10%;
+  text-align: center;
+  background: lightgray;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.inp {
+  width: 35%;
+  height: 30px;
+  padding: 10px;
+  border-radius: 6px;
+  color: black;
+}
+
+.btn1 {
+  width: 30%;
+  height: 40%;
+  background: lightgray;
+  border-left: none;
+  border-bottom: 0;
+  padding: 11px;
+  border-radius: 6px;
+}
+.box {
+  align-items: center;
+  text-align: center;
+  width: 60%;
+  height: 60%;
+}
+.btn2
+{
+  color:black;
+  width: 13.5%;
+  height: 35%;
+  background:brown;
+  border-left: none;
+  border-bottom: 0;
+  padding: 10px;
+  border-radius: 6px;
+
+}
